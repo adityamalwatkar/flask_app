@@ -1,0 +1,2 @@
+# MySqlClient system dependencies.
+sudo apt-get install python-dev default-libmysqlclient-dev libssl-dev
